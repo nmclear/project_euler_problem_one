@@ -26,4 +26,4 @@ const findMultipleSum = (limit) => {
 
 findMultipleSum(1000);
 // findMultipleSum(1000) = 233168
-```# project_euler_problem_one
+```
